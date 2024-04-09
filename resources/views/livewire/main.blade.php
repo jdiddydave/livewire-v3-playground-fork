@@ -1,3 +1,3 @@
-<div class="h-screen flex items-center justify-center">
+<div class="flex items-center justify-center h-screen">
     {{ $this->name }}
 </div>
