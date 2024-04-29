@@ -25,7 +25,6 @@ class Sample extends Component
 
     }
 
-
     public function save()
     {
         // $this->validate(['test' => 'integer']);

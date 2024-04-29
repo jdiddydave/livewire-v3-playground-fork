@@ -17,7 +17,7 @@ use Livewire\Livewire;
 |
 */
 
-Route::get('login', fn() => Blade::render(<<<'HTML'
+Route::get('login', fn () => Blade::render(<<<'HTML'
 <html>
     <body>
         You must login.
